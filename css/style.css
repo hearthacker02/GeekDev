@@ -20,6 +20,7 @@
   background-repeat: no-repeat;
   min-height: 70vh;
   border-radius: 0px;
+  background-attachment: fixed;
   margin-top: 74px;
 }
 
